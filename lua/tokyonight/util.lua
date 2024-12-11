@@ -1,6 +1,6 @@
 local M = {}
 
-M.bg = "#000000"
+M.bg = "#011627"
 M.fg = "#ffffff"
 M.day_brightness = 0.3
 
