@@ -79,7 +79,7 @@ local ret = {
   ["@punctuation.delimiter"]      = { fg = c.blue5 },
   ["@punctuation.special"]        = { fg = c.blue5 },
   ["@punctuation.special.markdown"] = { fg = c.orange },
-  ["@string"]                     = { fg = c.fg },
+  ["@string"]                     = { fg = c.green },
   ["@string.documentation"]       = { fg = c.yellow },
   ["@string.escape"]              = { fg = c.magenta },
   ["@string.regexp"]              = { fg = c.blue6 },
