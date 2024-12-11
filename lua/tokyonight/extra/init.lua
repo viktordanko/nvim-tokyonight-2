@@ -53,6 +53,7 @@ function M.setup()
     night = "",
     day = " Day",
     moon = " Moon",
+    vik = " Vik",
   }
 
   ---@type string[]
